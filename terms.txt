@@ -1,0 +1,37 @@
+ Variable: variables are boxes of data 
+
+
+ Assignment: assignments are assigned to a variable 
+
+
+ Statement: a single line of code that preforms a very spacific task 
+
+
+ Expression: the expression evaluates the value 
+
+
+ Integer: an integer is an whole number 
+
+
+ Float: a float is a decimal number 
+
+
+ String: a line or string of characters 
+
+
+ Literal: a variable that has only one value 
+
+
+ Boolean: a booleam is a true or false awnsering system 
+
+
+ Identifier: a name created by a programmer for an item like a variable or a function 
+
+
+ Camel Case: lower camel case abuts multipule words, capitilizeing each word exept for the first, numApples or peopleOnBus 
+
+
+ Reserved Words: A word that has been used before by the programm 
+
+
+ Naming Convention: a style of guied lines for the syetem 
