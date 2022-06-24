@@ -26,4 +26,8 @@ namespace MyApplication
     
     //output values
           Console.WriteLine(annualMice);
-          Console.WriteLine("mice per year" );
+          Console.WriteLine("mice per year");
+    }
+  }
+}
+        

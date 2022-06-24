@@ -17,6 +17,10 @@ namespace MyApplication
        totalFriends = yourFriends * yourFriends; 
     
     //output values
+         
           Console.WriteLine("your Friends know " + totalFriends );
-          Console.WriteLine("poeple.\n");
+          Console.WriteLine("people.\n");
           Console.WriteLine("and they know");
+    }
+  }
+}
